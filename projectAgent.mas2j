@@ -1,0 +1,8 @@
+MAS projectAgent {
+
+    environment: example.Env(10)
+
+    agents: agent0;
+
+    aslSourcePath: "src/agt";
+}
